@@ -1,0 +1,75 @@
+body {
+  margin-top: -4px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+form {
+  display: inline-flex;
+  height: 461px;
+  width: 646px;
+  margin: 0px;
+  padding: 0px;
+}
+
+table {
+  background-color: rgb(192 218 232 / 97%);
+  height: 474px;
+  width: 646px;
+  display: inline-flex;
+  justify-content: center;
+  line-height: 46px;
+}
+
+.formhead {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -37px;
+  /*! text-shadow: 6px 1px 5px #1c89d9 ; */
+}
+
+.inputt {
+  border: 1px rgb(190, 31, 31) solid;
+  border-radius: 8px;
+  height: 33px;
+  width: 431px;
+  background-color: rgb(251, 253, 255);
+  font-size: 18px;
+  font-family: unset;
+  /*!box-shadow: 6px 7px 13px 1px #312424; */
+}
+
+.loginbtn {
+  height: 33px;
+  width: 439px;
+  border-radius: 16px;
+  background-color: rgb(12, 64, 187);
+  color: white;
+  margin-top: 20px;
+}
+
+.forgetpsd {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.lbl {
+  color: black;
+  font-size: 19px;
+}
+
+/* #errort {
+
+    tabel tag me nahi banega ye sirf div tag me input tag lenge tab banega
+    display: flex;
+    line-height: 17px;
+    margin-left: 6px;
+    <tr>
+    <td><span id="error"></span></td>
+</tr>
+document.getElementById("error").innerHTML = " please fill the user id";
+  } */

@@ -1,0 +1,48 @@
+.container {
+  background-image: linear-gradient(
+    to right,
+    rgba(11, 5, 28, 0.7),
+    rgb(230, 215, 227),
+    rgb(204, 204, 192),
+    rgb(10, 5, 89)
+  );
+  height: 635px;
+  width: 1335px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.framecontainer {
+  height: 473px;
+  width: 1105px;
+  display: inline-flex;
+}
+.fram {
+  height: 471px;
+  width: 654px;
+  background-color: white;
+}
+
+iframe {
+  height: 471px;
+  width: 647px;
+}
+.styleimg {
+  background-image: url("../images/frontImg.jpg");
+  background-size: 457px 470px;
+  background-repeat: no-repeat;
+  height: 470px;
+  width: 470px;
+  display: inline-flex;
+}
+
+h2 {
+  display: inline-flex;
+  height: 297px;
+  line-height: 65px;
+  font-size: 41px;
+  background-color: red;
+  width: 176px;
+  justify-content: center;
+}
