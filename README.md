@@ -2,15 +2,17 @@
 
 ### About Login system
 
-this is my first website
+My first project is a login system where you can sign up login and logout if you want to login then first step is sign up required then you can login and if you will be input wrong email id and password then you can not login because in this project validation was added. So you have to input correct Email Id and password and you can store all information in database because I have used to PHP and MySQL to connect database so you can see all user in database.
+
+I have used HTML,CSS and JavaScript for frontend and MySQL, PHP for backend.
 
 ## Module
 
 1.Login
 2.Sign up  
-3.Logout
-4.Forget Password
-5.Database Connection
+3.Logout  
+4.Forget Password  
+5.Database Connection  
 6.Validation
 
 ## My site is live at
